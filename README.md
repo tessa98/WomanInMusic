@@ -10,3 +10,5 @@ Among the common things we can find is that the most listened to of each of the 
 When talking about genres, we can catch the singer with the most famous song according to each year's spotify and see which genre she belongs to: Selena Gomez with her album *Revival* is pop, Katy Perry with *Witness* is pop/electronic and finally, Ariana Grande with *Sweetener* that mixes several current styles. 
 
 Regarding exaggerated values, there has not yet been any to highlight or draw attention directly, however, there are some exceptions to what I said before that make if you take the average of some values from the data, yield to one side or the other. 
+
+Women are currently having power in the music industry and are evolving in many ways, so I think it's a good topic to discuss and investigate. 
