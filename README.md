@@ -12,7 +12,3 @@ When talking about genres, we can catch the singer with the most famous song acc
 Regarding exaggerated values, there has not yet been any to highlight or draw attention directly, however, there are some exceptions to what I said before that make if you take the average of some values from the data, yield to one side or the other. 
 
 Women are currently having power in the music industry and are evolving in many ways, so I think it's a good topic to discuss and investigate. 
-
-
-
-CHANGE 2
